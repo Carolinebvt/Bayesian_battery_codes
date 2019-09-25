@@ -5,6 +5,7 @@ Created on Fri Sep 13 16:34:55 2019
 
 @author: carolinebevalot
 """
+#Try Try
 import expyriment
 import random
 from Bayesian_battery_functions_v1 import random_pictures, rate_confidence
